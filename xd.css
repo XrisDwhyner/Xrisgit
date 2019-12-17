@@ -1,0 +1,22 @@
+body{
+	background-color:magenta
+}
+ol{
+ background:blue;
+ padding: 25px;
+ border:5px black solid;
+ margin:25px;
+}
+h1{
+	color:yellow;
+	font-family:sans-serif;
+}
+.main-header{
+	background-color:#2ddf5c;
+	width:100%;
+	padding:18px 16px;
+}
+.head__item{
+	display:inline-block;
+	
+}
